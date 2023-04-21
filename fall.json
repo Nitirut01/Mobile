@@ -6,7 +6,7 @@
     "img_url": "https://fandomkpop.com/wp-content/uploads/2021/10/WINTER-aespa_.jpg",
     "age": "23",
     "sex": "Female",
-    "address": "XXX",
+    "address": "XXX"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "img_url": "https://dudeplace.co/wp-content/uploads/2020/10/karina-4.jpg",
     "age": "23",
     "sex": "Female",
-    "address": "XXX",
+    "address": "XXX"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "img_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_40/1487941/elsa-frozen-today-square-190930.jpg",
     "age": "23",
     "sex": "Female",
-    "address": "XXX",
+    "address": "XXX"
   },
   {
     "id": 4,
@@ -33,6 +33,6 @@
     "img_url": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/ukcgwnavdb3ckrzmfqlf.jpg",
     "age": "23",
     "sex": "Male",
-    "address": "XXX",
+    "address": "XXX"
   },
 ]
