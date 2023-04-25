@@ -38,7 +38,7 @@
   {
     "id": 5,
     "surname": "Disney",
-    "firstname": "Mickey mouse",
+    "firstname": "Mickey",
     "img_url": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/ukcgwnavdb3ckrzmfqlf.jpg",
     "age": "20",
     "sex": "Male",
@@ -51,6 +51,33 @@
     "img_url": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/ukcgwnavdb3ckrzmfqlf.jpg",
     "age": "30",
     "sex": "Female",
+    "address": "XXX"
+  },
+  {
+    "id": 7,
+    "surname": "Cartoon network",
+    "firstname": "Blossom",
+    "img_url": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/ukcgwnavdb3ckrzmfqlf.jpg",
+    "age": "20",
+    "sex": "Male",
+    "address": "XXX"
+  },
+  {
+    "id": 8,
+    "surname": "Cartoon network",
+    "firstname": "Buttercup",
+    "img_url": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/ukcgwnavdb3ckrzmfqlf.jpg",
+    "age": "20",
+    "sex": "Male",
+    "address": "XXX"
+  },
+  {
+    "id": 9,
+    "surname": "Cartoon network",
+    "firstname": "Bubbles",
+    "img_url": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/ukcgwnavdb3ckrzmfqlf.jpg",
+    "age": "20",
+    "sex": "Male",
     "address": "XXX"
   }
 ]
