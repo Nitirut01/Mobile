@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "surname": "Aespa",
-    "firstname": "Winter",
+    "surname": "",
+    "firstname": "Maleficent",
     "img_url": "https://d23.com/app/uploads/2015/07/maleficent-studios-feat-2.1.jpg",
-    "age": "23",
+    "age": "35",
     "sex": "Female",
     "address": "XXX"
   },
   {
     "id": 2,
-    "surname": "Aespa",
-    "firstname": "Karina",
+    "surname": "Ba-Ba-BA",
+    "firstname": "Minion",
     "img_url": "https://static.wikia.nocookie.net/despicableme/images/6/64/Minion5.jpg/revision/latest?cb=20210312182732",
-    "age": "23",
-    "sex": "Female",
+    "age": "40",
+    "sex": "Male",
     "address": "XXX"
   },
   {
